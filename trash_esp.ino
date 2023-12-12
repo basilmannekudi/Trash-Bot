@@ -12,11 +12,11 @@
 #include "addons/TokenHelper.h"
 //Provide the RTDB payload printing info and other helper functions.
 #include "addons/RTDBHelper.h" 
-#define API_KEY "AIzaSyA7uMZ-1UeAsz4RTcNINNV1bg45tNa7CoU"
+#define API_KEY "xxxxx"
 
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "https://trashbot-c51b6-default-rtdb.firebaseio.com/" 
-#define FIREBASE_AUTH "qePc4COz5U7m4bktIauvK4N9WXVSXaH2Ovr7e6m3"
+#define DATABASE_URL "xxxxxxxx" 
+#define FIREBASE_AUTH "xxxxxx"
 #define lvl1 5
 #define lvl2 4
 #define lvl3 14
